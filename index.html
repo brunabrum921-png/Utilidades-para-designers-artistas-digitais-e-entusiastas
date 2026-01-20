@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Úteis para Designers</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Configurações (API Keys) -->
+    <script src="config.js"></script>
+    <!-- Importando o script.js externo -->
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+    <h1>Úteis para designers</h1>
+
+    <div id="search-container">
+        <input type="text" id="search-input" placeholder="Buscar por nome, tag ou descrição...">
+        <button id="botao-busca" class="filter-btn" style="margin-left: 5px;">Buscar</button>
+        <button id="clear-filters-btn" class="filter-btn" style="margin-left: 10px; display: none;">
+            Limpar Filtros
+        </button>
+    </div>
+
+    <div id="price-container">
+        <!-- Os botões de preço serão inseridos aqui pelo JavaScript -->
+    </div>
+
+    <div id="tags-wrapper">
+        <div id="tags-header">
+            <h2>Tags</h2>
+            <!-- O botão de minimizar é gerado pelo script.js -->
+        </div>
+        <div id="tag-container">
+            <!-- As tags serão inseridas aqui pelo JavaScript -->
+        </div>
+    </div>
+
+    <!-- Spinner de carregamento -->
+    <div id="loading-spinner"></div>
+
+    <div class="card-container">
+        <!-- Os cards das ferramentas serão inseridos aqui pelo JavaScript -->
+    </div>
+
+    <div id="pagination-container">
+        <!-- Paginação gerada pelo JS -->
+    </div>
+
+    <button id="back-to-top-btn" title="Voltar ao topo">↑</button>
+
+</body>
+</html>

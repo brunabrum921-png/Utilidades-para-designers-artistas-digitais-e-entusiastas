@@ -1,0 +1,800 @@
+[
+  {
+    "nome": "Coolors",
+    "introdução": "The super fast color palettes generator!",
+    "descrição": "Create the perfect palette or get inspired by thousands of beautiful color schemes.",
+    "link": "https://coolors.co/",
+    "comentario_admin": "Ferramenta essencial para testar combinações rápidas de cores.",
+    "tags": ["Cores", "iOS"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Color Palette Generator - Canva",
+    "introdução": "The easiest place to get colors from your photos",
+    "descrição": "Want a color scheme that perfectly matches your favorite images? With Canva’s color palette generator, you can create color combinations in seconds. Simply upload a photo, and we will use the hues in the photo to create your palette.",
+    "link": "https://www.canva.com/colors/color-palette-generator/",
+    "tags": ["Cores", "iOS"],
+    "preco": "Gratuito"
+  },
+   {
+    "nome": "UFRGS - Tipo de Fonte e Acessibilidade",
+    "introdução": "Instruções para acessibilidade digital",
+    "descrição": "Instruções que facilitam a acessibilidade digital ligados ao tipo de fonte, contraste, estrutura, etc.",
+    "link": "https://www.ufrgs.br/acessibilidadedigital/tipo-de-fonte/",
+    "tags": ["Fonte", "Acessibilidade"],
+    "preco": "Gratuito"
+  },
+   {
+    "nome": "Adobe Photoshop",
+    "introdução": "Aplicativo online de foto e design",
+    "descrição": "Tenha precisão e controle incríveis com ferramentas de edição avançadas. Passe mais tempo criando e menos tempo editando com recursos inteligentes. Explore mais possibilidades criativas com a IA generativa. Use um pincel para aplicar edições seletivas. Etc.",
+    "link": "https://www.adobe.com/br/products/photoshop.html",
+    "tags": ["Adobe", "Fotos", "Edição", "IA", "iOS"],
+    "preco": "Pago"
+  },
+   {
+    "nome": "Colormind",
+    "introdução": "Gerador de paletas de cores",
+    "descrição": "Colormind is a color scheme generator that uses deep learning. It can learn color styles from photographs, movies, and popular art.",
+    "link": "http://colormind.io/",
+    "tags": ["Cores", "Referências"],
+    "preco": "Gratuito"
+  },
+  {"nome": "Nuvemshop - Gerador de nomes para empresas",
+    "introdução": "IA propõe nomes para empresas alinhados ao setor e público-alvo",
+    "descrição": "Usando inteligência artificial, o gerador propõe nomes alinhados ao seu público e segmento. Dessa forma, você consegue lançar sua loja com segurança, garantir uma identidade memorável e fortalecer a credibilidade da sua marca.",
+    "link": "https://www.nuvemshop.com.br/ferramentas/gerador-nomes",
+    "tags": ["IA", "Referências"],
+    "preco": "Gratuito"
+  },
+  {"nome": "SpyColor",
+    "introdução": "Color information and conversion tool",
+    "descrição": "SpyColor.com is a free service that provides information about any color, including conversions to many color models (RGB, CMYK, HSL, HSV, XYZ, xyY, CIELAB, CIELUV, CIELCH, Hunter Lab and YIQ). Schemes (harmonies), like complementary, split-complementary, triadic, tetradic, five-tone, clash, analogous and monochromatic colors can be found on each color page.",
+    "link": "https://www.spycolor.com/",
+    "tags": ["Cores", "Conversão", "RGB", "CMYK"],
+    "preco": "Gratuito"
+  },
+  {"nome": "Adobe Illustrator",
+    "introdução": "Software de gráficos vetoriais",
+    "descrição": "Crie com desempenho e rapidez aprimorados na versão mais recente do Illustrator. Comece com um vetor e o preencha com cores e detalhes conforme o seu estilo.",
+    "link": "https://www.adobe.com/br/products/illustrator.html",
+    "tags": ["Vetor", "Adobe", "Estampa", "Marca", "Arte digital", "iOS"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "Figma",
+    "introdução": "A ferramenta de design de interface colaborativa baseada em navegador.",
+    "descrição": "Figma é uma plataforma de design de interface de usuário e prototipagem baseada em navegador, que permite a colaboração em tempo real. É amplamente utilizada para design de UI/UX, prototipagem e criação de sistemas de design.",
+    "link": "https://www.figma.com/",
+    "tags": ["UI/UX", "Prototipagem", "Colaborativo", "Vetor", "Web", "Design System", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Sketch",
+    "introdução": "O aplicativo de design vetorial para macOS.",
+    "descrição": "Sketch é um editor de gráficos vetoriais focado principalmente no design de interface de usuário para macOS. Oferece um ambiente poderoso e intuitivo para criar, prototipar e colaborar em designs de aplicativos e sites.",
+    "link": "https://www.sketch.com/",
+    "tags": ["UI/UX", "Vetor", "Mac", "Prototipagem", "Design System", "iOS"],
+    "preco": "Assinatura"
+  },
+  {
+    "nome": "Adobe XD",
+    "introdução": "Ferramenta de design e prototipagem de experiência do usuário.",
+    "descrição": "O Adobe XD é uma ferramenta de design vetorial para projetar e prototipar experiências de usuário para web, aplicativos móveis e voz. Permite criar wireframes, designs visuais, interações e animações.",
+    "link": "https://www.adobe.com/br/products/xd.html",
+    "tags": ["UI/UX", "Prototipagem", "Adobe", "Vetor", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Affinity Designer",
+    "introdução": "Software de design gráfico vetorial e rasterizado profissional.",
+    "descrição": "Uma alternativa robusta e premiada ao Adobe Illustrator e Photoshop, o Affinity Designer oferece um conjunto completo de ferramentas para design vetorial e rasterizado. Ideal para ilustração, branding, UI/UX e arte conceitual, com um modelo de compra única.",
+    "link": "https://affinity.serif.com/designer/",
+    "tags": ["Vetor", "Raster", "Ilustração", "UI/UX", "Compra Única"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "Procreate",
+    "introdução": "Estúdio de arte digital completo e intuitivo para iPad.",
+    "descrição": "Procreate é um aplicativo de pintura e ilustração digital exclusivo para iPad, conhecido por sua vasta biblioteca de pincéis, sistema de camadas avançado e desempenho rápido. É a escolha de muitos artistas e ilustradores digitais.",
+    "link": "https://procreate.art/",
+    "tags": ["Ilustração", "Arte digital", "iPad", "Pintura digital", "iOS"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "Midjourney",
+    "introdução": "Gerador de imagens a partir de texto via Inteligência Artificial.",
+    "descrição": "Midjourney é um programa de inteligência artificial que cria imagens a partir de descrições textuais. É uma ferramenta poderosa para criar arte conceitual, ilustrações e obter inspiração visual rapidamente.",
+    "link": "https://www.midjourney.com/",
+    "tags": ["IA", "Arte digital", "Ilustração", "Inspiração"],
+    "preco": "Assinatura"
+  },
+  {
+    "nome": "Uizard",
+    "introdução": "Ferramenta de design de UI com IA para prototipagem rápida.",
+    "descrição": "O Uizard transforma capturas de tela e esboços desenhados à mão em protótipos de alta fidelidade em minutos. É uma ferramenta de IA que acelera o fluxo de trabalho de design de UI/UX, permitindo a criação e iteração rápidas de interfaces.",
+    "link": "https://uizard.io/",
+    "tags": ["IA", "UI/UX", "Prototipagem", "Web", "Colaborativo", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Khroma",
+    "introdução": "A ferramenta de cores com IA para designers.",
+    "descrição": "O Khroma usa IA para aprender quais cores você gosta e cria paletas ilimitadas para você descobrir, pesquisar e salvar. É uma forma inteligente de encontrar e usar combinações de cores que se alinham ao seu estilo.",
+    "link": "https://www.khroma.co/",
+    "tags": ["IA", "Cores", "Inspiração", "Web"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Let's Enhance",
+    "introdução": "Melhore a qualidade e a resolução de imagens com IA.",
+    "descrição": "Use a inteligência artificial do Let's Enhance para aumentar a resolução de imagens sem perder qualidade, remover ruído e corrigir cores. É ideal para preparar imagens de baixa qualidade para uso profissional em impressão ou web.",
+    "link": "https://letsenhance.io/",
+    "tags": ["IA", "Fotos", "Edição", "Qualidade", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Miro",
+    "introdução": "O quadro branco online para colaboração em equipe.",
+    "descrição": "Miro é uma plataforma de quadro branco online que permite que equipes distribuídas trabalhem juntas de forma eficaz, desde o brainstorming com notas adesivas digitais até o planejamento e gerenciamento de fluxos de trabalho ágeis.",
+    "link": "https://miro.com/",
+    "tags": ["Colaborativo", "Brainstorming", "Wireframing", "Equipe", "Web", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "InVision",
+    "introdução": "Plataforma de design de produto digital para equipes.",
+    "descrição": "O InVision fornece as ferramentas para criar protótipos interativos, colaborar em tempo real com o Freehand e otimizar todo o processo de design, desde a ideia inicial até a entrega para os desenvolvedores.",
+    "link": "https://www.invisionapp.com/",
+    "tags": ["Prototipagem", "Colaborativo", "UI/UX", "Equipe", "Design System", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Zeplin",
+    "introdução": "O espaço de trabalho para a entrega de design (handoff).",
+    "descrição": "Zeplin é uma ferramenta que facilita a colaboração entre designers e desenvolvedores. Ele publica designs e gera automaticamente especificações, assets e trechos de código, otimizando o processo de handoff.",
+    "link": "https://zeplin.io/",
+    "tags": ["Colaborativo", "UI/UX", "Equipe", "Dev", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Canva",
+    "introdução": "Plataforma de design gráfico completa para todos os níveis.",
+    "descrição": "Crie designs incríveis para qualquer finalidade, desde posts para redes sociais e apresentações até currículos e materiais de marketing. O Canva oferece milhares de templates e uma interface de arrastar e soltar fácil de usar.",
+    "link": "https://www.canva.com/",
+    "tags": ["Design Gráfico", "Colaborativo", "Web", "Apresentações", "Redes Sociais", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Canva Video Editor",
+    "introdução": "Editor de vídeos online, fácil e gratuito.",
+    "descrição": "Crie e edite vídeos de alta qualidade para qualquer plataforma. Use templates, adicione trilhas sonoras, transições e efeitos com a ferramenta de edição de vídeo intuitiva do Canva, ideal para conteúdo de redes sociais e marketing.",
+    "link": "https://www.canva.com/videos/",
+    "tags": ["Vídeo", "Edição", "Redes Sociais", "Colaborativo", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Canva Website Builder",
+    "introdução": "Crie um site de uma página de forma rápida e gratuita.",
+    "descrição": "Desenvolva sites visualmente atraentes e responsivos sem precisar de código. Ideal para portfólios, páginas de eventos ou sites de pequenas empresas, com templates personalizáveis e integração total com o ecossistema Canva.",
+    "link": "https://www.canva.com/website-builder/",
+    "tags": ["Web", "Portfólio", "No-Code", "UI/UX", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "DaVinci Resolve",
+    "introdução": "Edição, colorização, efeitos visuais e pós-produção de áudio em um só software.",
+    "descrição": "O DaVinci Resolve é a única solução do mundo que combina edição, colorização, efeitos visuais, animações gráficas e pós-produção de áudio em um só lugar. Sua interface moderna é poderosa para profissionais, mas fácil para iniciantes.",
+    "link": "https://www.blackmagicdesign.com/br/products/davinciresolve",
+    "tags": ["Vídeo", "Edição", "Colorização", "VFX", "Áudio", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Adobe Premiere Pro",
+    "introdução": "O software de edição de vídeos padrão do setor para cinema, TV e web.",
+    "descrição": "O Premiere Pro é a principal ferramenta de edição de vídeo profissional. Ferramentas criativas, integração com outros aplicativos Adobe e o poder da IA ajudam você a transformar filmagens em vídeos e filmes refinados.",
+    "link": "https://www.adobe.com/br/products/premiere.html",
+    "tags": ["Vídeo", "Edição", "Adobe", "Cinema"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "Adobe After Effects",
+    "introdução": "Crie animações e efeitos visuais cinematográficos.",
+    "descrição": "Anime um logotipo ou personagem, crie títulos e introduções incríveis. Com o After Effects, o software de animação e efeitos visuais padrão do setor, você pode dar vida a qualquer ideia.",
+    "link": "https://www.adobe.com/br/products/aftereffects.html",
+    "tags": ["Animação", "VFX", "Adobe", "Vídeo", "Motion Graphics"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "Adobe InDesign",
+    "introdução": "O software líder de mercado para design de página e layout editorial.",
+    "descrição": "Crie e publique livros, revistas digitais, eBooks, pôsteres e PDFs interativos com o Adobe InDesign. É a ferramenta ideal para diagramação de materiais impressos e digitais.",
+    "link": "https://www.adobe.com/br/products/indesign.html",
+    "tags": ["Diagramação", "Editorial", "Adobe", "Impressão", "Livros"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "Adobe Lightroom",
+    "introdução": "O serviço baseado em nuvem para quem ama fotografia.",
+    "descrição": "O Lightroom oferece tudo o que você precisa para editar, organizar, armazenar e compartilhar suas fotos em desktops, dispositivos móveis e na Web, com sincronização automática entre eles.",
+    "link": "https://www.adobe.com/br/products/photoshop-lightroom.html",
+    "tags": ["Fotos", "Edição", "Adobe", "Organização", "iOS"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "Adobe Audition",
+    "introdução": "Uma estação de trabalho de áudio profissional para edição e mixagem.",
+    "descrição": "Crie, mixe e adicione efeitos sonoros com a melhor estação de trabalho de áudio digital do setor. O Audition é um conjunto de ferramentas abrangente para criar, mixar, editar e restaurar conteúdo de áudio.",
+    "link": "https://www.adobe.com/br/products/audition.html",
+    "tags": ["Áudio", "Edição", "Adobe", "Podcast"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "Krita",
+    "introdução": "Software de pintura digital profissional e de código aberto.",
+    "descrição": "O Krita é uma ferramenta poderosa para criação de ilustrações, concept art, quadrinhos e animações. Oferece um conjunto avançado de pincéis, gerenciamento de camadas e suporte a diversos formatos, sendo uma alternativa gratuita e robusta para artistas digitais.",
+    "link": "https://krita.org/",
+    "tags": ["Ilustração", "Pintura digital", "Arte digital", "Animação", "Código Aberto", "iOS"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "GIMP",
+    "introdução": "Editor de imagens gratuito e de código aberto.",
+    "descrição": "O GIMP (GNU Image Manipulation Program) é um editor de gráficos raster versátil para retoque de fotos, composição de imagens e criação de arte. É uma alternativa poderosa e gratuita ao Adobe Photoshop, com suporte a camadas, filtros e scripts.",
+    "link": "https://www.gimp.org/",
+    "tags": ["Edição", "Fotos", "Ilustração", "Código Aberto"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Inkscape",
+    "introdução": "Editor de gráficos vetoriais gratuito e de código aberto.",
+    "descrição": "O Inkscape é uma ferramenta profissional de desenho vetorial para Windows, macOS e Linux. É uma alternativa popular ao Adobe Illustrator, ideal para criar logotipos, ilustrações, diagramas e outros gráficos escaláveis, utilizando o padrão SVG.",
+    "link": "https://inkscape.org/",
+    "tags": ["Vetor", "Ilustração", "Design Gráfico", "Código Aberto", "UI/UX", "Logo"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Sketchbook",
+    "introdução": "Aplicativo de desenho e esboço para todas as plataformas.",
+    "descrição": "O Autodesk Sketchbook agora é um software totalmente gratuito. Oferece uma interface intuitiva e um conjunto de ferramentas de desenho e pintura de nível profissional, ideal para artistas que buscam uma experiência de esboço natural em dispositivos desktop e móveis.",
+    "link": "https://www.sketchbook.com/",
+    "tags": ["Ilustração", "Desenho", "Pintura digital", "Esboço", "Arte digital", "iOS"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Blender",
+    "introdução": "Suíte de criação 3D gratuita e de código aberto.",
+    "descrição": "O Blender é uma ferramenta completa para modelagem 3D, animação, renderização, composição, rigging, simulação e edição de vídeo. É amplamente utilizado por artistas e estúdios para criar animações, efeitos visuais, arte, modelos para impressão 3D e jogos.",
+    "link": "https://www.blender.org/",
+    "tags": ["3D", "Animação", "Modelagem", "VFX", "Código Aberto", "Vídeo"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Framer",
+    "introdução": "Ferramenta de design e construção de sites interativos.",
+    "descrição": "O Framer permite que você desenhe e publique sites reais a partir do mesmo lugar. Comece com um design visual em uma tela e transforme-o em um site responsivo com animações e interações, sem precisar de código. É uma alternativa poderosa para designers que desejam construir sites.",
+    "link": "https://www.framer.com/",
+    "tags": ["UI/UX", "Web", "Prototipagem", "No-Code", "Interativo", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Spline",
+    "introdução": "Ferramenta de design 3D colaborativa para a web.",
+    "descrição": "O Spline permite criar e publicar cenas 3D interativas, animações e texturas diretamente no navegador. É uma ferramenta poderosa e fácil de usar para adicionar elementos 3D a sites e projetos digitais, com colaboração em tempo real.",
+    "link": "https://spline.design/",
+    "tags": ["3D", "Web", "Animação", "Interativo", "Colaborativo", "No-Code"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Webflow",
+    "introdução": "Plataforma de desenvolvimento visual para construir sites profissionais.",
+    "descrição": "O Webflow é uma ferramenta no-code que permite a designers construir, lançar e escalar sites responsivos e ricos em interações, sem escrever código. Oferece controle total sobre HTML, CSS e JavaScript de forma visual, sendo ideal para sites complexos e portfólios.",
+    "link": "https://webflow.com/",
+    "tags": ["Web", "No-Code", "UI/UX", "Portfólio", "CMS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "CorelDRAW Graphics Suite",
+    "introdução": "Suíte completa de aplicativos profissionais para design gráfico.",
+    "descrição": "O CorelDRAW Graphics Suite é um conjunto de ferramentas de design para ilustração vetorial, layout de página, edição de fotos e tipografia. É uma alternativa poderosa ao Adobe Creative Cloud, amplamente utilizada em sinalização, impressão de grande formato e vestuário.",
+    "link": "https://www.coreldraw.com/",
+    "tags": ["Vetor", "Ilustração", "Design Gráfico", "Edição", "Fotos", "Impressão", "Diagramação"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "Photopea",
+    "introdução": "Editor de fotos e gráficos online e gratuito.",
+    "descrição": "O Photopea é um editor de imagens avançado que funciona no navegador, suportando formatos como PSD, XCF, Sketch, XD e CDR. É considerado uma das melhores alternativas gratuitas e online ao Adobe Photoshop, ideal para edições rápidas e projetos complexos.",
+    "link": "https://www.photopea.com/",
+    "tags": ["Edição", "Fotos", "Ilustração", "Web", "UI/UX", "Vetor", "PSD"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Affinity Photo",
+    "introdução": "Software profissional de edição de fotos e manipulação de imagens.",
+    "descrição": "O Affinity Photo é uma alternativa poderosa e rápida ao Adobe Photoshop, oferecendo um conjunto completo de ferramentas para edição de fotos, retoques, composição de imagens e pintura digital. É conhecido por seu desempenho e modelo de compra única.",
+    "link": "https://affinity.serif.com/photo/",
+    "tags": ["Edição", "Fotos", "Raster", "Compra Única", "Retoque"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "Behance",
+    "introdução": "Plataforma online para exibir e descobrir trabalhos criativos.",
+    "descrição": "O Behance, da Adobe, é a principal plataforma online para exibir e descobrir trabalhos criativos. Designers e artistas de todo o mundo usam o Behance para criar portfólios e obter visibilidade para seus projetos.",
+    "link": "https://www.behance.net/",
+    "tags": ["Portfólio", "Redes Sociais", "Inspiração", "Colaborativo", "Design Gráfico", "UI/UX", "iOS"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Dribbble",
+    "introdução": "Comunidade online para designers mostrarem seus trabalhos.",
+    "descrição": "Dribbble é uma comunidade para designers compartilharem pequenas capturas de tela (shots) de seus trabalhos, processos e projetos atuais. É um lugar para inspiração, feedback e oportunidades de trabalho.",
+    "link": "https://dribbble.com/",
+    "tags": ["Portfólio", "Redes Sociais", "Inspiração", "UI/UX", "Ilustração", "Feedback", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Pexels",
+    "introdução": "Banco de fotos e vídeos de alta qualidade e uso gratuito.",
+    "descrição": "O Pexels oferece milhões de fotos e vídeos de alta qualidade, compartilhados por uma comunidade global de criadores. Todo o conteúdo é gratuito para uso comercial e não comercial, sem a necessidade de atribuição.",
+    "link": "https://www.pexels.com/",
+    "tags": ["Banco de Imagens", "Fotos", "Vídeo", "Inspiração", "Conteúdo", "iOS"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Unsplash",
+    "introdução": "A fonte de imagens de alta resolução de uso livre da internet.",
+    "descrição": "O Unsplash é uma plataforma com mais de 3 milhões de fotos de alta resolução, doadas por uma comunidade de fotógrafos. Todas as fotos podem ser baixadas e usadas gratuitamente para qualquer projeto.",
+    "link": "https://unsplash.com/",
+    "tags": ["Banco de Imagens", "Fotos", "Inspiração", "Conteúdo", "iOS"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Pixabay",
+    "introdução": "Banco de mídia vibrante com imagens e vídeos livres de direitos autorais.",
+    "descrição": "O Pixabay oferece uma vasta coleção de fotos, ilustrações, vetores e vídeos de alta qualidade, todos sob a licença Pixabay, que permite o uso gratuito para fins comerciais sem a necessidade de atribuição.",
+    "link": "https://pixabay.com/",
+    "tags": ["Banco de Imagens", "Fotos", "Vídeo", "Ilustração", "Vetor", "Conteúdo", "iOS"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Google Fonts",
+    "introdução": "Biblioteca de fontes gratuitas e de código aberto.",
+    "descrição": "O Google Fonts é um recurso essencial para designers e desenvolvedores, oferecendo um vasto catálogo de fontes de alta qualidade que podem ser usadas livremente em projetos pessoais e comerciais, tanto para web quanto para impressão.",
+    "link": "https://fonts.google.com/",
+    "tags": ["Fonte", "Tipografia", "Código Aberto", "Web", "UI/UX"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Flaticon",
+    "introdução": "O maior banco de dados de ícones personalizáveis gratuitos.",
+    "descrição": "O Flaticon oferece milhões de ícones vetoriais em formatos como SVG, PSD, PNG e EPS. É uma ferramenta indispensável para encontrar ícones para interfaces, apresentações e outros projetos de design.",
+    "link": "https://www.flaticon.com/",
+    "tags": ["Ícones", "Vetor", "UI/UX", "Recursos", "Design Gráfico", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Adobe Fonts",
+    "introdução": "Milhares de fontes ao alcance dos seus dedos.",
+    "descrição": "O Adobe Fonts oferece acesso a uma vasta biblioteca de fontes de alta qualidade, inclusas na assinatura da Creative Cloud. As fontes podem ser sincronizadas e usadas em todos os aplicativos da Adobe e em projetos web.",
+    "link": "https://fonts.adobe.com/",
+    "tags": ["Fonte", "Tipografia", "Adobe", "Web", "Biblioteca"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "Fontjoy",
+    "introdução": "Gerador de combinações de fontes com IA.",
+    "descrição": "O Fontjoy ajuda designers a escolher as melhores combinações de fontes. Ele usa inteligência artificial para gerar pares de fontes que compartilham um tema em comum, mas que possuem um contraste agradável.",
+    "link": "https://fontjoy.com/",
+    "tags": ["Fonte", "Tipografia", "IA", "Inspiração", "Web", "UI/UX"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "WhatTheFont",
+    "introdução": "Identificador de fontes a partir de imagens.",
+    "descrição": "Viu uma fonte em uma imagem e quer saber qual é? O WhatTheFont, da MyFonts, usa IA para analisar imagens e identificar a fonte utilizada, sugerindo a fonte exata ou similares.",
+    "link": "https://www.myfonts.com/pages/whatthefont",
+    "tags": ["Fonte", "Tipografia", "IA", "Identificação", "Recursos"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Affinity Publisher",
+    "introdução": "Software profissional de layout de página e design editorial.",
+    "descrição": "O Affinity Publisher é uma alternativa poderosa ao Adobe InDesign, permitindo criar layouts complexos para revistas, livros e brochuras. Destaca-se pela integração com o Affinity Designer e Photo (StudioLink) e pelo modelo de compra única.",
+    "link": "https://affinity.serif.com/publisher/",
+    "tags": ["Diagramação", "Editorial", "Impressão", "Livros", "Revistas", "Compra Única"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "Scribus",
+    "introdução": "Software de layout de página de código aberto e gratuito.",
+    "descrição": "O Scribus é um programa de desktop publishing (DTP) gratuito que oferece recursos profissionais para criar layouts de página para jornais, brochuras e livros, com suporte a CMYK e gerenciamento de cores ICC.",
+    "link": "https://www.scribus.net/",
+    "tags": ["Diagramação", "Editorial", "Código Aberto", "Impressão", "Livros"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Domestika",
+    "introdução": "Comunidade criativa com cursos online de alta qualidade.",
+    "descrição": "A Domestika oferece cursos online produzidos profissionalmente para diversas áreas criativas, como design, ilustração, fotografia e animação. Os cursos são ministrados por especialistas do setor e focados em projetos práticos.",
+    "link": "https://www.domestika.org/",
+    "tags": ["Cursos", "Aprendizado", "Design Gráfico", "Ilustração", "UI/UX", "Comunidade"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "Coursera",
+    "introdução": "Plataforma de aprendizado online com cursos de universidades e empresas.",
+    "descrição": "O Coursera colabora com mais de 200 universidades e empresas líderes para oferecer cursos, especializações e certificados em uma variedade de assuntos, incluindo design gráfico, UI/UX (como o do Google) e teoria do design.",
+    "link": "https://www.coursera.org/",
+    "tags": ["Cursos", "Aprendizado", "UI/UX", "Design Gráfico", "Certificado", "Acadêmico", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Pinterest",
+    "introdução": "Motor de busca visual para encontrar inspiração criativa.",
+    "descrição": "O Pinterest é uma plataforma essencial para designers encontrarem inspiração, salvarem referências visuais e criarem painéis semânticos (moodboards) para seus projetos, cobrindo áreas como design gráfico, UI/UX, ilustração e muito mais.",
+    "link": "https://www.pinterest.com/",
+    "tags": ["Inspiração", "Referências", "Redes Sociais", "Design Gráfico", "UI/UX", "Ilustração", "Moodboard", "iOS"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Notion",
+    "introdução": "Espaço de trabalho tudo-em-um para organização e produtividade.",
+    "descrição": "O Notion é uma ferramenta flexível que permite a estudantes e profissionais criar notas, gerenciar projetos, organizar tarefas e construir wikis. É ideal para organizar a vida acadêmica, planejar projetos de design e centralizar todo o conhecimento.",
+    "link": "https://www.notion.so/",
+    "tags": ["Organização", "Colaborativo", "Equipe", "Estudante", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Trello",
+    "introdução": "Ferramenta visual para organizar e priorizar projetos.",
+    "descrição": "O Trello utiliza quadros, listas e cartões no estilo Kanban para ajudar equipes e indivíduos a organizar tarefas, gerenciar projetos e colaborar de forma flexível e visual. É ideal para acompanhar o progresso de qualquer projeto.",
+    "link": "https://trello.com/",
+    "tags": ["Organização", "Colaborativo", "Equipe", "Gerenciamento", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Milanote",
+    "introdução": "A ferramenta para organizar seus projetos criativos.",
+    "descrição": "O Milanote é um espaço de trabalho visual para criativos. É ideal para coletar inspiração, organizar ideias, criar moodboards e gerenciar projetos de design em um ambiente flexível de arrastar e soltar.",
+    "link": "https://milanote.com/",
+    "tags": ["Organização", "Inspiração", "Moodboard", "Colaborativo", "Brainstorming", "Recursos", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Savee.it",
+    "introdução": "Plataforma de inspiração visual para criativos.",
+    "descrição": "O Savee.it é uma plataforma minimalista e focada na qualidade visual, usada por designers para salvar e organizar imagens de inspiração. É uma excelente ferramenta para criar moodboards e descobrir referências de alta qualidade.",
+    "link": "https://savee.it/",
+    "tags": ["Inspiração", "Referências", "Moodboard", "Design Gráfico", "UI/UX", "Fotos", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "ArtStation",
+    "introdução": "A principal plataforma de portfólio para artistas de games, cinema e entretenimento.",
+    "descrição": "O ArtStation é o lugar para exibir portfólios, descobrir artistas e encontrar inspiração em áreas como concept art, ilustração, modelagem 3D e animação. É uma fonte essencial de referência para arte digital de alta qualidade.",
+    "link": "https://www.artstation.com/",
+    "tags": ["Portfólio", "Inspiração", "Arte digital", "3D", "Ilustração", "Redes Sociais", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "ZBrush",
+    "introdução": "O padrão da indústria para escultura digital e pintura 3D.",
+    "descrição": "O ZBrush é uma ferramenta de escultura digital que combina modelagem 3D/2.5D, texturização e pintura. É amplamente utilizado por artistas de personagens, designers de jogos e ilustradores para criar modelos orgânicos de alta complexidade.",
+    "link": "https://www.maxon.net/en/zbrush",
+    "tags": ["3D", "Escultura Digital", "Modelagem", "Arte digital", "Personagens"],
+    "preco": "Assinatura"
+  },
+  {
+    "nome": "Cinema 4D",
+    "introdução": "Software 3D profissional para modelagem, animação e renderização.",
+    "descrição": "O Cinema 4D é conhecido por sua facilidade de uso e interface intuitiva, sendo uma escolha popular para motion graphics, visualização e design. Oferece um conjunto de ferramentas robusto para artistas 3D.",
+    "link": "https://www.maxon.net/en/cinema-4d",
+    "tags": ["3D", "Animação", "Modelagem", "Motion Graphics", "Renderização"],
+    "preco": "Assinatura"
+  },
+  {
+    "nome": "Rive",
+    "introdução": "Ferramenta de animação interativa para todas as plataformas.",
+    "descrição": "O Rive permite que designers e desenvolvedores criem animações interativas que rodam em tempo real em qualquer plataforma (iOS, Android, Web, etc.). É uma ferramenta poderosa para criar UIs animadas, personagens e gráficos dinâmicos com um state machine visual.",
+    "link": "https://rive.app/",
+    "tags": ["Animação", "Interativo", "UI/UX", "Web", "Mobile", "State Machine", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "LottieFiles",
+    "introdução": "Plataforma para animações Lottie.",
+    "descrição": "O LottieFiles é a casa das animações Lottie. É uma plataforma para encontrar, testar, colaborar e otimizar animações leves e escaláveis para web e aplicativos móveis, conectando-se diretamente a ferramentas como o After Effects.",
+    "link": "https://lottiefiles.com/",
+    "tags": ["Animação", "UI/UX", "Web", "Mobile", "Recursos", "Colaborativo", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Concepts",
+    "introdução": "Aplicativo de esboço vetorial com tela infinita.",
+    "descrição": "O Concepts é um espaço de trabalho flexível para pensar, planejar e criar. Ele combina a naturalidade do desenho em papel com o poder da edição vetorial, ideal para arquitetos, ilustradores e designers de produto.",
+    "link": "https://concepts.app/",
+    "tags": ["Ilustração", "Vetor", "Esboço", "Android", "UI/UX", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Infinite Painter",
+    "introdução": "Aplicativo de pintura e desenho avançado para Android.",
+    "descrição": "Considerado uma das melhores alternativas ao Procreate para Android, o Infinite Painter oferece centenas de pincéis, ferramentas de pintura realistas, camadas e modos de mesclagem em uma interface limpa e organizada.",
+    "link": "https://www.infinitestudio.art/painter.php",
+    "tags": ["Ilustração", "Pintura digital", "Arte digital", "Android", "iOS"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "Nomad Sculpt",
+    "introdução": "Poderoso aplicativo de escultura 3D para dispositivos móveis.",
+    "descrição": "O Nomad Sculpt oferece uma experiência de escultura digital intuitiva e poderosa em tablets e smartphones. É uma ferramenta fantástica para artistas 3D criarem modelos detalhados em qualquer lugar, com um conjunto de ferramentas robusto.",
+    "link": "https://nomadsculpt.com/",
+    "tags": ["3D", "Escultura Digital", "Modelagem", "Arte digital", "Android", "iOS"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "Adobe Express",
+    "introdução": "Crie gráficos, folhetos, logotipos e muito mais rapidamente.",
+    "descrição": "O Adobe Express (anteriormente Adobe Spark) é um aplicativo de design tudo-em-um que permite criar rapidamente posts para redes sociais, vídeos curtos e páginas da web a partir de milhares de modelos. É uma alternativa poderosa ao Canva.",
+    "link": "https://www.adobe.com/express/",
+    "tags": ["Design Gráfico", "Redes Sociais", "Adobe", "Android", "iOS", "Vídeo"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Clip Studio Paint",
+    "introdução": "O aplicativo líder para ilustração, quadrinhos e animação.",
+    "descrição": "Utilizado por profissionais de todo o mundo, o Clip Studio Paint é uma ferramenta versátil para desenho, pintura e animação. É conhecido por sua sensação de desenho natural e um conjunto de recursos robusto para artistas de mangá e quadrinhos.",
+    "link": "https://www.clipstudio.net/en/",
+    "tags": ["Ilustração", "Pintura digital", "Arte digital", "Animação", "Quadrinhos", "Android", "iOS"],
+    "preco": "Assinatura"
+  },
+  {
+    "nome": "ibis Paint X",
+    "introdução": "Aplicativo de desenho popular com foco em compartilhamento social.",
+    "descrição": "O ibis Paint X é um aplicativo de desenho fácil de usar e versátil, com mais de 2000 pincéis, centenas de fontes e ferramentas de gravação de processo. É muito popular para criar ilustrações e arte no estilo mangá.",
+    "link": "https://ibispaint.com/",
+    "tags": ["Ilustração", "Pintura digital", "Arte digital", "Android", "iOS"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Paper by WeTransfer",
+    "introdução": "Ferramenta de esboço imersiva para capturar ideias.",
+    "descrição": "O Paper transforma seu dispositivo em um caderno de anotações digital. Com ferramentas de desenho responsivas e uma interface baseada em gestos, é perfeito para esboçar, fazer anotações visuais e capturar ideias em qualquer lugar.",
+    "link": "https://wetransfer.com/paper",
+    "tags": ["Esboço", "Ilustração", "iOS", "Inspiração", "Organização"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Tayasui Sketches",
+    "introdução": "Aplicativo de desenho realista e versátil.",
+    "descrição": "O Tayasui Sketches oferece uma vasta gama de ferramentas de desenho realistas, como aquarela, acrílico e canetas, em uma interface minimalista. É um aplicativo poderoso tanto para artistas iniciantes quanto para profissionais.",
+    "link": "https://tayasui.com/sketches/",
+    "tags": ["Ilustração", "Pintura digital", "Esboço", "Android", "iOS", "Arte digital"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Adobe Firefly",
+    "introdução": "Família de modelos de IA generativa criativa da Adobe.",
+    "descrição": "Explore novas possibilidades criativas com a IA generativa. Use comandos de texto simples para gerar imagens extraordinárias, criar efeitos de texto e muito mais. Integrado aos aplicativos da Adobe como Photoshop e Illustrator.",
+    "link": "https://www.adobe.com/br/sensei/generative-ai/firefly.html",
+    "tags": ["IA", "Adobe", "Arte digital", "Inspiração", "Fotos", "Vetor"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Leonardo Ai",
+    "introdução": "Gere assets de alta qualidade para seus projetos criativos com IA.",
+    "descrição": "Uma suíte completa de ferramentas de IA para criar imagens, arte e assets para jogos. Treine seus próprios modelos de IA ou use modelos pré-treinados para gerar conteúdo visual consistente e estilizado.",
+    "link": "https://leonardo.ai/",
+    "tags": ["IA", "Arte digital", "Ilustração", "Inspiração", "Games", "Assets"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Galileo AI",
+    "introdução": "Crie designs de interface editáveis a partir de um simples prompt de texto.",
+    "descrição": "Galileo AI é uma ferramenta de IA projetada para designers de UI/UX. Ela gera rapidamente designs de alta fidelidade a partir de descrições em linguagem natural, acelerando o processo de ideação e prototipagem.",
+    "link": "https://www.usegalileo.ai/",
+    "tags": ["IA", "UI/UX", "Prototipagem", "Design System", "Inspiração", "Web", "Mobile"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Designs.ai",
+    "introdução": "Crie logos, vídeos, banners e mockups com IA em minutos.",
+    "descrição": "Uma plataforma online que utiliza inteligência artificial para permitir que você crie um portfólio de marketing completo. Inclui ferramentas para criação de logos, vídeos, locuções, banners e muito mais.",
+    "link": "https://designs.ai/",
+    "tags": ["IA", "Logo", "Vídeo", "Design Gráfico", "Marketing"],
+    "preco": "Assinatura"
+  },
+  {
+    "nome": "Remove.bg",
+    "introdução": "Remova fundos de imagem 100% automaticamente.",
+    "descrição": "Uma ferramenta de IA extremamente útil e específica que remove o fundo de qualquer imagem de forma rápida e precisa. Ideal para criar recortes para composições, e-commerce e design gráfico.",
+    "link": "https://www.remove.bg/",
+    "tags": ["IA", "Fotos", "Edição", "Recursos", "Organização"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Stable Diffusion",
+    "introdução": "Modelo de IA de código aberto para geração de imagens a partir de texto.",
+    "descrição": "Stable Diffusion é um modelo de aprendizado profundo que gera imagens detalhadas a partir de descrições de texto. Por ser de código aberto, pode ser executado localmente e integrado a diversas ferramentas e fluxos de trabalho.",
+    "link": "https://stablediffusionweb.com/",
+    "tags": ["IA", "Arte digital", "Ilustração", "Inspiração", "Código Aberto", "Fotos"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Asana",
+    "introdução": "Gerencie o trabalho da sua equipe, projetos e tarefas online.",
+    "descrição": "Asana é uma plataforma de gerenciamento de trabalho que ajuda equipes a orquestrar suas tarefas, desde as menores até as de grande importância. É ideal para organizar, acompanhar e gerenciar o trabalho de equipes de design, com integrações com ferramentas como Figma. [6, 11, 21]",
+    "link": "https://asana.com/",
+    "tags": ["Gerenciamento", "Organização", "Equipe", "Colaborativo"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Jira",
+    "introdução": "A ferramenta de desenvolvimento de software nº 1 usada por equipes ágeis.",
+    "descrição": "Embora seja focada em desenvolvimento, o Jira é amplamente utilizado por equipes de design para acompanhar o trabalho em conjunto com desenvolvedores. Permite o planejamento, o acompanhamento e o lançamento de software, integrando-se diretamente com o Figma para um fluxo de trabalho de design-to-code mais coeso. [2, 3, 9, 15]",
+    "link": "https://www.atlassian.com/software/jira",
+    "tags": ["Gerenciamento", "Equipe", "Dev", "Colaborativo", "Agile"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "ClickUp",
+    "introdução": "Uma plataforma para gerenciar todo o seu trabalho.",
+    "descrição": "ClickUp é uma plataforma de produtividade tudo-em-um que substitui múltiplas aplicações. É personalizável para qualquer equipe, incluindo designers, oferecendo tarefas, documentos, quadros brancos, e mais para gerenciar projetos criativos do início ao fim. [5, 10, 19]",
+    "link": "https://clickup.com/",
+    "tags": ["Gerenciamento", "Organização", "Equipe", "Colaborativo", "All-in-one"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Monday.com",
+    "introdução": "Um Work OS para gerenciar qualquer projeto, processo ou fluxo de trabalho.",
+    "descrição": "Monday.com é um sistema operacional de trabalho (Work OS) onde as equipes criam fluxos de trabalho personalizados para gerenciar seus projetos. É altamente visual e flexível, sendo uma ótima opção para equipes de design gerenciarem solicitações, cronogramas e colaboração com clientes. [6, 7, 13]",
+    "link": "https://monday.com/",
+    "tags": ["Gerenciamento", "Organização", "Equipe", "Colaborativo", "Visual"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Evernote",
+    "introdução": "O melhor aplicativo de anotações para organizar sua vida.",
+    "descrição": "Evernote é uma plataforma focada em anotações, organização e produtividade pessoal. Permite capturar ideias, criar listas de tarefas, salvar artigos da web e sincronizar tudo entre dispositivos, sendo uma ferramenta clássica para a produtividade de criativos. [1, 4, 8]",
+    "link": "https://evernote.com/",
+    "tags": ["Organização", "Estudante", "Recursos", "iOS", "Android"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Glyphs",
+    "introdução": "Editor de fontes profissional para Mac.",
+    "descrição": "Glyphs é um editor de fontes completo para macOS. Com uma interface intuitiva e um poderoso conjunto de ferramentas, é a escolha de muitos designers de tipos para criar desde fontes simples até famílias tipográficas complexas.",
+    "link": "https://glyphsapp.com/",
+    "tags": ["Fonte", "Tipografia", "Mac", "Lettering"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "FontLab",
+    "introdução": "Editor de fontes profissional para Mac e Windows.",
+    "descrição": "O FontLab é um editor de fontes integrado para designers de tipos e entusiastas de fontes. Permite criar, abrir, modificar, desenhar, espaçar, kerning, sugerir e exportar fontes de desktop, web, coloridas e variáveis.",
+    "link": "https://www.fontlab.com/",
+    "tags": ["Fonte", "Tipografia", "Mac", "Windows", "Lettering"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "FontForge",
+    "introdução": "Editor de fontes de código aberto e gratuito.",
+    "descrição": "FontForge é um editor de fontes gratuito que suporta todos os formatos de fonte comuns. É uma ferramenta poderosa para designers que desejam criar ou modificar fontes sem o custo de um software comercial.",
+    "link": "https://fontforge.org/",
+    "tags": ["Fonte", "Tipografia", "Código Aberto", "Lettering"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Typewolf",
+    "introdução": "O recurso definitivo para inspiração tipográfica na web.",
+    "descrição": "Typewolf é um site que mostra tendências de tipografia e identifica as fontes usadas em designs da vida real. É um recurso incrível para ver como as fontes são usadas na prática e descobrir combinações interessantes.",
+    "link": "https://www.typewolf.com/",
+    "tags": ["Fonte", "Tipografia", "Inspiração", "Referências", "Web", "UI/UX"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Fonts in Use",
+    "introdução": "Um arquivo público de tipografia em uso.",
+    "descrição": "Fonts in Use é um arquivo colaborativo que cataloga e exibe exemplos de tipografia no mundo real. É uma ferramenta de pesquisa e inspiração inestimável para designers, permitindo navegar por projetos por tipo de fonte, formato e indústria.",
+    "link": "https://fontsinuse.com/",
+    "tags": ["Fonte", "Tipografia", "Inspiração", "Referências", "Design Gráfico", "Editorial", "Acadêmico"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Calligraphr",
+    "introdução": "Transforme sua caligrafia ou lettering em uma fonte real.",
+    "descrição": "O Calligraphr permite criar fontes totalmente funcionais a partir de sua própria caligrafia ou lettering. Basta preencher um template, fazer o upload e a ferramenta transforma seus caracteres em um arquivo de fonte que pode ser usado em qualquer computador.",
+    "link": "https://www.calligraphr.com/",
+    "tags": ["Fonte", "Tipografia", "Lettering", "Caligrafia", "Personalizado"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "Google Whisk",
+    "introdução": "Crie imagens novas remixando referências visuais com IA.",
+    "descrição": "O Whisk é uma ferramenta experimental do Google Labs que permite gerar imagens usando outras imagens como prompts. Você define o sujeito, o cenário e o estilo visual para criar composições únicas com o poder do Gemini e Imagen 3.",
+    "link": "https://labs.google/whisk",
+    "tags": ["IA", "Arte digital", "Inspiração", "Google", "Experimental"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "ArtRage",
+    "introdução": "Software de pintura digital realista e intuitivo.",
+    "descrição": "O ArtRage é um estúdio de artista digital com uma gama completa de ferramentas familiares que parecem e funcionam como as reais. Oferece tinta a óleo realista, aquarela, espátulas e muito mais, simulando texturas e misturas de mídia natural.",
+    "link": "https://www.artrage.com/",
+    "tags": ["Pintura digital", "Arte digital", "Ilustração", "Realista", "iOS", "Android", "Windows", "Mac"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "Paint Tool SAI",
+    "introdução": "Software de pintura leve e de alta qualidade.",
+    "descrição": "O Paint Tool SAI é um software de pintura digital de alta qualidade e leve, totalmente compatível com digitalizadores, oferecendo operação incrivelmente estável, tornando a arte digital mais agradável e confortável.",
+    "link": "https://www.systemax.jp/en/sai/",
+    "tags": ["Pintura digital", "Ilustração", "Arte digital", "Leve", "Windows", "Anime", "Manga"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "Gravit Designer",
+    "introdução": "Ferramenta de design vetorial baseada na web.",
+    "descrição": "O Gravit Designer (agora Corel Vector) é uma ferramenta vetorial completa que roda no navegador. Ideal para ilustrações, ícones e interfaces, compatível com qualquer sistema operacional.",
+    "link": "https://www.designer.io/",
+    "tags": ["Vetor", "Ilustração", "Web", "UI/UX", "Design Gráfico"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "Final Cut Pro",
+    "introdução": "Edição de vídeo profissional para Mac.",
+    "descrição": "O Final Cut Pro combina edição de vídeo revolucionária com uma organização de mídia poderosa e desempenho incrível, otimizado para o hardware da Apple.",
+    "link": "https://www.apple.com/final-cut-pro/",
+    "tags": ["Vídeo", "Edição", "Mac", "Cinema"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "CapCut",
+    "introdução": "Editor de vídeo tudo-em-um gratuito.",
+    "descrição": "O CapCut é um editor de vídeo versátil e fácil de usar, muito popular para criação de conteúdo para redes sociais. Disponível para mobile, desktop e web.",
+    "link": "https://www.capcut.com/",
+    "tags": ["Vídeo", "Edição", "Redes Sociais", "Web", "iOS", "Android", "Windows", "Mac"],
+    "preco": "Freemium"
+  },
+  {
+    "nome": "OBS Studio",
+    "introdução": "Software livre para gravação de vídeo e transmissão ao vivo.",
+    "descrição": "O OBS Studio é a ferramenta padrão para captura de tela, gravação de vídeo e streaming. Altamente configurável e com suporte a plugins.",
+    "link": "https://obsproject.com/",
+    "tags": ["Vídeo", "Gravação", "Streaming", "Código Aberto", "Windows", "Mac"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "HandBrake",
+    "introdução": "Transcodificador de vídeo de código aberto.",
+    "descrição": "Uma ferramenta essencial para converter vídeos de quase qualquer formato para uma seleção de codecs modernos e amplamente suportados. Ótimo para compressão e otimização.",
+    "link": "https://handbrake.fr/",
+    "tags": ["Vídeo", "Conversão", "Ferramenta", "Código Aberto", "Windows", "Mac"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Audacity",
+    "introdução": "Editor de áudio gratuito e de código aberto.",
+    "descrição": "O Audacity é um software de edição e gravação de áudio multipista fácil de usar. É ideal para gravar áudio ao vivo, editar arquivos de som e aplicar efeitos, sendo uma ferramenta essencial para podcasts e edições rápidas.",
+    "link": "https://www.audacityteam.org/",
+    "tags": ["Áudio", "Edição", "Gravação", "Código Aberto", "Windows", "Mac"],
+    "preco": "Gratuito"
+  },
+  {
+    "nome": "Reaper",
+    "introdução": "Produção de áudio digital completa e eficiente.",
+    "descrição": "O Reaper é uma estação de trabalho de áudio digital (DAW) completa para gravação, edição, processamento e mixagem. É conhecido por ser extremamente leve, rápido e altamente personalizável.",
+    "link": "https://www.reaper.fm/",
+    "tags": ["Áudio", "DAW", "Edição", "Mixagem", "Windows", "Mac"],
+    "preco": "Pago"
+  },
+  {
+    "nome": "GarageBand",
+    "introdução": "Estúdio de criação musical para usuários Apple.",
+    "descrição": "O GarageBand é um estúdio de criação musical completo que vem com o Mac e dispositivos iOS. Oferece uma vasta biblioteca de sons e instrumentos virtuais, ideal para iniciantes e criação rápida de trilhas.",
+    "link": "https://www.apple.com/mac/garageband/",
+    "tags": ["Áudio", "Música", "Gravação", "Mac", "iOS"],
+    "preco": "Gratuito"
+  }
+]
